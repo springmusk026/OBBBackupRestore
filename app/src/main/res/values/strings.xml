@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">OBB Backup-Restore</string>
+    <string name="select_file_to_backup">Select an OBB File to Backup</string>
+    <string name="no_obb_files">Sorry, there are no OBB files to backup.</string>
+    <string name="backup_completed">Backup completed successfully.</string>
+    <string name="backup_failed">Failed to complete the backup.</string>
+    <string name="restore_successful">Restore completed successfully.</string>
+    <string name="restore_failed">Failed to complete the restore.</string>
+    <string name="no_backup_available">No backup available for restore.</string>
+    <string name="backup_info">Backup Information</string>
+    <string name="backup_filename">Backup Filename: %s</string>
+    <string name="backup_time">Backup Time: %s</string>
+    <string name="backup_path">Backup Path: %s</string>
+    <string name="no_backup_file_info">No backup file information found.</string>
+    <string name="backup_file_not_found">Backup file not found in the backup folder.</string>
+    <string name="backup_obb">Backup OBB</string>
+
+    <string name="ads_banner">ca-app-pub-6823301895984878/3820084338</string>
+    <string name="Verification_send">Verification email sent to : %s</string>
+    <string name="Verification_Failed">Failed to send verification email : %s</string>
+    <string name="Nouserfound">No user found.</string>
+    <string name="LoginSuccessful">Login Successful.</string>
+    <string name="Emptyfields">Empty fields are not allowed</string>
+    <string name="entercorrectemail">Please enter correct email</string>
+    <string name="Enterregisteredemail">Enter your registered email id</string>
+    <string name="Checkemail">Check your email</string>
+    <string name="Unabletosend">Unable to send, failed</string>
+    <string name="GoogleSignInfailed">Google Sign-In failed</string>
+    <string name="Emailcannotbeempty">Email cannot be empty</string>
+    <string name="Passwordcannotbeempty">Password cannot be empty</string>
+    <string name="SignUpSuccessful">SignUp Successful</string>
+    <string name="SignUpFailed">SignUp Failed : %s</string>
+    <string name="DownloadURLisempty">Download URL is empty</string>
+
+
+
+    <string name="modname">Mod Name : %s</string>
+    <string name="version">Version : %s</string>
+    <string name="size">Size : %s</string>
+    <string name="developer">Developer : %s</string>
+    <string name="status">Status : %s</string>
+
+</resources>

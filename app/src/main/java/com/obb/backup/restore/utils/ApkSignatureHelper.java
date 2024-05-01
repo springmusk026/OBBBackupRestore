@@ -23,10 +23,8 @@ public class ApkSignatureHelper {
         try {
             PackageManager packageManager = context.getPackageManager();
             PackageInfo packageInfo = packageManager.getPackageInfo(packageName, 0);
-            Log.e("AppVersionUtils", "versionCode: " + packageInfo.versionCode);
             return packageInfo.versionCode;
         } catch (PackageManager.NameNotFoundException e) {
-            Log.e("AppVersionUtils", "Package not found: " + packageName);
             e.printStackTrace();
         }
         return -1;
